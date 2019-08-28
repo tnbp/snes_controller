@@ -1,6 +1,6 @@
 /** snes_controller.ino
  *  A sketch for a 2-port SNES-to-USB converter
- *  powered by Arduino Micro (or compatibles)
+ *  powered by Arduino Leonardo (or compatibles)
  *  
  *  heavily based on "Arduino Micro SNES Controller.ino" by Anthony Burkholder (burks10)
  *  https://github.com/burks10/Arduino-SNES-Controller
